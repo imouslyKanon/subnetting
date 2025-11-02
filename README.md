@@ -1,2 +1,2 @@
 # subnetting
-Mempermudah subnetting ip dengan tools ini mwhehehehe
+Mempermudah subnetting ip dengan tool ini mwhehehehe
